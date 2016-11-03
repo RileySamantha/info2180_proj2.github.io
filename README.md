@@ -1,1 +1,1 @@
-# info2180_proj2.github.io
+# INFO2180 - Project 2 - The Fifteen Puzzle
